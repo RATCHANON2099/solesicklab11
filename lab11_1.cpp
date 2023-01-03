@@ -40,5 +40,5 @@ int main(){
 	cout << "D = " << count[3] <<", ";
 	cout << "F = " << count[4];
 
-	return 0;
+	return 0
 }
